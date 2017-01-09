@@ -16,6 +16,7 @@ And use the calabash-android commands on screen objects that are created:
 calabash-android-Page-Object/facebook_messenger/features/android/screens/
 
 Why do that? 
+
 It is ideal for code reuse for Android/iOS projects, both the android and iOS applications are supposed to have the same features, 
 the steps will be the same, in this way the specifications / steps can be used on both platforms. 
 
