@@ -11,7 +11,7 @@ This way you can leave the generic commands in the steps of the features:
 
 calabash-android-Page-Object/facebook_messenger/features/step_definitions/login_steps.rb
 
-and use the calabash-android commands on screen objects that are created:
+And use the calabash-android commands on screen objects that are created:
 
 calabash-android-Page-Object/facebook_messenger/features/android/screens/
 
