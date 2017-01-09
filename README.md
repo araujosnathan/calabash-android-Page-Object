@@ -26,4 +26,10 @@ The changes will be only the objects created, that is, the application screens
 In this project it is shown how to use Page Object for an android project! 
 To add the same project for iOS you will need to create only the objects for the iOS App Screens.
 
+** Important **
+
+In this project also was used a gem to structure the folders better for both platforms and also to help in the codes, since this gem offers some very interesting classes.
+You can find it in this link: https://rubygems.org/gems/cs-bdd/
+
+
 Do not just be a QA for one platform, you can be for both! Be smart!
